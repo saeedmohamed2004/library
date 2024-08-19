@@ -1,0 +1,18 @@
+c:\users\star\documents\visual studio 2015\Projects\library management system\library management system\bin\Debug\library management system.exe.config
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\bin\Debug\library management system.exe
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\bin\Debug\library management system.pdb
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library management system.csprojResolveAssemblyReference.cache
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Form1.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Properties.Resources.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library management system.csproj.GenerateResource.Cache
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library management system.exe
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library management system.pdb
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.dashboard.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Add_Books.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Add_Students.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.View_Books.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.View_Students.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Issue_Book.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Return_Books.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Issue_Books_Reports.resources
+C:\Users\star\documents\visual studio 2015\Projects\library management system\library management system\obj\Debug\library_management_system.Return_Books_Reports.resources
